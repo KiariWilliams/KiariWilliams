@@ -1,6 +1,5 @@
-- 👋 Hey there, I’m @KiariWilliams !
-- 👀 I’m interested in finding new insights in data analysis projects
-- 🌱 I’m currently continuing my self-taught journey building my skills in SQL and Python. 
+- 👋 Hi there, I’m @KiariWilliams !
+- 🌱 I’m currently expanding upon my data analyst professional journey by building my skills in SQL and Python. 
 
 
 <!---
